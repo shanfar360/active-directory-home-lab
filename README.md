@@ -44,7 +44,7 @@ This project demonstrates a fully virtualized Windows Server 2022 home lab desig
 
 Here’s a visual overview of my Virtualized Home Lab setup:
 
-![Virtualized Home Lab](images/home_lab_diagram.png)
+![Virtualized Home Lab](https://github.com/shanfar360/active-directory-home-lab/blob/6e6ceec6a32f7fd512fd0d1bd2e4e74f164755a2/images/home_lab_diagram.png.png)
 
 This diagram illustrates the full lab architecture, including network layout, servers, and client connections.
 
